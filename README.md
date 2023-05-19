@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enmanuelgac
-- 👀 I’m interested in Cruise ships
-- 🌱 I’m currently learning Cruises and Hospitalities industries 
+- 👀 I’m interested in programming languages 
+- 🌱 I’m currently learning to programming 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me by my Website links
 
